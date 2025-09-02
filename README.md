@@ -9,7 +9,7 @@ Formada em Análise e desenvolvimento de sistemas com paixão por criar soluçõ
 ## Tecnologias e Ferramentas
 
 - **Linguagens de Programação**: Java, Python, JavaScript
-- **Frameworks e Bibliotecas**: Spring Boot, Hibernate, Pandas, Scikit-learn
+- **Frameworks e Bibliotecas**: Spring Boot, Hibernate, Flask, Pandas, Scikit-learn
 - **Banco de Dados**: MySQL, PostgreSQL
 - **Ferramentas de Desenvolvimento**: Git, Docker, Maven
 - **Outras Habilidades**: RESTful APIs, Microservices, Design Patterns, Agile (Scrum)
