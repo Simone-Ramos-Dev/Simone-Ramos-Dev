@@ -1,3 +1,6 @@
+
+[🇺🇸 English Version](README.md) | [🇧🇷 Versão em Português](README.pt-br.md)
+
 # Hello! I'm Simone Ramos 👋  
 🎓 **Software Developer | Software Engineer**  
 🚀 **Focus on Scalable Cloud Solutions**
