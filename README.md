@@ -1,5 +1,3 @@
-| 🇺🇸 English | 🇧🇷 Português |
-|-------------|---------------|
 # Hello! I'm Simone Ramos 👋  
 🎓 **Software Developer | Software Engineer**  
 🚀 **Focus on Scalable Cloud Solutions**
