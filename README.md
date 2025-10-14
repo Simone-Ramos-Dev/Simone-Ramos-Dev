@@ -4,12 +4,23 @@
 
 ---
 
-## 🧩 About Me  
-I hold a degree in **Systems Analysis and Development** and I'm passionate about turning challenges into efficient and scalable solutions.  
-With a focus on **backend development**, my goal is to build robust systems using **Java** and **Python**, and explore the potential of **Serverless architecture** with **AWS Lambda**.  
+💻 Desenvolvedora Python Júnior | Foco em projetos Cloud e Web  
+🌱 Atualmente aprendendo AWS, Django e FastAPI  
+🚀 Buscando minha primeira oportunidade como Dev Júnior  
+📫 Contato: [simoneramosdev@gmail.com](mailto:seuemail@gmail.com) | [LinkedIn](https://linkedin.com/in/simoneramosdev)
 
-I'm always looking for new challenges, I value collaboration, and I love contributing to an **Agile culture** to deliver continuous value.
+## 🧠 Tecnologias
+- Python | Flask | FastAPI  
+- AWS (Lambda, S3, DynamoDB)  
+- HTML | CSS | JavaScript  
+- Git | GitHub | Docker
 
+## 📂 Projetos em Destaque
+- 🪶 **Gerador de Citações Serverless (AWS)** – App full stack com Lambda e DynamoDB  
+- 💳 **Detecção de Fraudes com PySpark** – Processamento em tempo real de transações  
+- 🌤️ **WeatherApp** – Consulta de clima com API pública e interface web
+
+⭐ Dê uma olhada nos repositórios abaixo!
 ---
 
 ## ⚙️ Tech Stack  
