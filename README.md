@@ -16,7 +16,7 @@
 - Git | GitHub | Docker
 
 ## 📂 Projetos em Destaque
-- 🪶 **Gerador de Citações Serverless (AWS)** – App full stack com Lambda e DynamoDB  
+- 🧑‍💻💬  **Gerador de Citações Serverless (AWS)** – App full stack com Lambda e DynamoDB  
 - 💌 **Classificador de E-mails** – Aplicação em Python com Machine Learning para identificar e-mails *spam* e *importantes*  
 
 ⭐ Dê uma olhada nos repositórios abaixo!
