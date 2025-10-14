@@ -17,14 +17,16 @@
 
 ## 📂 Projetos em Destaque
 - 🪶 **Gerador de Citações Serverless (AWS)** – App full stack com Lambda e DynamoDB  
-- 💳 **Detecção de Fraudes com PySpark** – Processamento em tempo real de transações  
-- 🌤️ **WeatherApp** – Consulta de clima com API pública e interface web
+- 💌 **Classificador de E-mails** – Aplicação em Python com Machine Learning para identificar e-mails *spam* e *importantes*  
 
 ⭐ Dê uma olhada nos repositórios abaixo!
 ---
 
 ## ⚙️ Tech Stack  
-My current stack is centered around **backend development**, **microservices**, and **serverless architectures**.
+I specialize in **backend development** using **Python** and **cloud-based microservices**, leveraging **serverless architectures**, **AI**, and **automations** to build scalable and efficient applications.  
+
+Especializo-me em **desenvolvimento backend** com **Python** e **microsserviços em nuvem**, utilizando **arquiteturas serverless**, **inteligência artificial** e **automações** para criar aplicações escaláveis e eficientes.
+
 
 ### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
