@@ -1,6 +1,4 @@
 # 👋 Seja bem-vindo(a)! Meu nome é Simone Ramos, Desenvolvedora Back-End com foco em Python e arquitetura em nuvem (AWS). 
-🎓 **Desenvolvedora Back End**
----
 
 💻 Desenvolvedora Back End 
 🌱 Atualmente aprendendo AWS, Django e FastAPI  
