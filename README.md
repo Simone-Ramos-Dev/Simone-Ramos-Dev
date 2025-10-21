@@ -1,4 +1,4 @@
-# Hello! I'm Simone Ramos 👋  
+# 👋 Olá! Sou Simone Ramos, Desenvolvedora Back-End com foco em Python, Java e arquitetura em nuvem (AWS). 
 🎓 **Desenvolvedora Back End**
 ---
 
