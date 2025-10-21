@@ -1,10 +1,8 @@
 # Hello! I'm Simone Ramos 👋  
-🎓 **Software Developer | Software Engineer**  
-🚀 **Focus on Scalable Cloud Solutions**
-
+🎓 **Desenvolvedora Back End **
 ---
 
-💻 Desenvolvedora Python Júnior | Foco em projetos Cloud e Web  
+💻 Desenvolvedora Back End 
 🌱 Atualmente aprendendo AWS, Django e FastAPI  
 🚀 Buscando minha primeira oportunidade como Dev Júnior  
 📫 Contato: [simoneramosdev@gmail.com](mailto:seuemail@gmail.com) | [LinkedIn](https://linkedin.com/in/simoneramosdev)
