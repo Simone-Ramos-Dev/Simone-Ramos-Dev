@@ -20,8 +20,6 @@
 ## ⚙️ Tech Stack  
 Especializo-me em **desenvolvimento backend** com **Python** e **microsserviços em nuvem**, utilizando **arquiteturas serverless**, **inteligência artificial** e **automações** para criar aplicações escaláveis e eficientes.
 
-I specialize in **backend development** using **Python** and **cloud-based microservices**, leveraging **serverless architectures**, **AI**, and **automations** to build scalable and efficient applications.  
-
 ### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
