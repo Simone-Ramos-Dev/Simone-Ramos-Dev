@@ -4,7 +4,6 @@
 
 💻 Desenvolvedora Back End 
 🌱 Atualmente aprendendo AWS, Django e FastAPI  
-🚀 Buscando minha primeira oportunidade como Dev Júnior  
 📫 Contato: [simoneramosdev@gmail.com](mailto:seuemail@gmail.com) | [LinkedIn](https://linkedin.com/in/simoneramosdev)
 
 ## 🧠 Tecnologias
