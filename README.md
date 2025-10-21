@@ -1,5 +1,5 @@
 # Hello! I'm Simone Ramos 👋  
-🎓 **Desenvolvedora Back End **
+🎓 **Desenvolvedora Back End**
 ---
 
 💻 Desenvolvedora Back End 
