@@ -9,6 +9,9 @@
 - AWS (Lambda, S3, DynamoDB)  
 - HTML | CSS | JavaScript  
 - Git | GitHub | Docker
+### Minhas Principais Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simone-Ramos-Dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📂 Projetos em Destaque
 - 🧑‍💻💬  **Gerador de Citações Serverless (AWS)** – App full stack com Lambda e DynamoDB  
